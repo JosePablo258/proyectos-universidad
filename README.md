@@ -1,2 +1,2 @@
-# proyectos-universidad
-Portafolio centralizado de mis proyectos universitarios en ciberseguridad de pentesting (Nmap, Metasploit), análisis de incidentes y alertas en SOC, automatización con SOAR, configuración y hardening de Linux Kali/Debian, Windows Server y Active Directory, además de scripts en Bash, PowerShell, Python y desarrollados durante la carrera.
+# Proyectos-universidad
+Bienvenido/a a mi repositorio principal, donde centralizo todos los proyectos, laboratorios y evidencias desarrollados a lo largo de mis estudios universitarios en ciberseguridad e informática. Este espacio funciona como un portafolio vivo: aquí documento tanto los resultados finales como el proceso de aprendizaje detrás de cada proyecto, incluyendo la investigación previa, la configuración de entornos, los comandos y scripts utilizados, los errores encontrados y las lecciones aprendidas.
